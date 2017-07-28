@@ -3,7 +3,7 @@
   <div id="app" class="container-fluid">
 
     <div class="row text-center justify-content-center">
-      <div class="col-6">
+      <div class="col-lg-6">
         <h2>{{ env('APP_NAME') }}</h2>
         <h3>Code Challenge | Nested Comments</h3>
         <hr>
