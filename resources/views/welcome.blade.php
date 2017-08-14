@@ -5,7 +5,6 @@
     <div class="row text-center justify-content-center">
       <div class="col-lg-6">
         <h2>{{ env('APP_NAME') }}</h2>
-        <h3>Code Challenge | Nested Comments</h3>
         <hr>
       </div>
     </div>
